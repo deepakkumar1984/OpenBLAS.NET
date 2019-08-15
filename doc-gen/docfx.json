@@ -4,7 +4,7 @@
       "src": [
         {
           "files": [
-            "/OpenBLAS.CSharp/**.csproj"
+            "/OpenBLAS.NET/**.csproj"
           ],
           "src": "../"
         }

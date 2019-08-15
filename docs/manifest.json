@@ -1,0 +1,319 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Work/git/OpenBLAS.NET/doc-gen",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.BLAS.__Internal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.BLAS.__Internal.html",
+          "hash": "sKrKpwbSeKrPLzwtDaP2mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.BLAS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.BLAS.html",
+          "hash": "4qStHjG7FDQsHF2EVvsNEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.CBLAS.__Internal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.CBLAS.__Internal.html",
+          "hash": "w49KkJBzYSiV0PuSy+refg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.CBLAS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.CBLAS.html",
+          "hash": "f7m8sdCt4a+8WO3A03sAIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.CBLAS_DIAG.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.CBLAS_DIAG.html",
+          "hash": "01Z0Hp54xxKeJdIXYuti0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.CBLAS_ORDER.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.CBLAS_ORDER.html",
+          "hash": "OARPzJwMrjoIb80UWDikYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.CBLAS_SIDE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.CBLAS_SIDE.html",
+          "hash": "uh53F/3ISviiW0Q94bNcIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.CBLAS_TRANSPOSE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.CBLAS_TRANSPOSE.html",
+          "hash": "enkKMxHUCHMaUzG15FHtDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.CBLAS_UPLO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.CBLAS_UPLO.html",
+          "hash": "m3XWh8AtEztT5gbXHeTo1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.ComplexDouble.__Internal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.ComplexDouble.__Internal.html",
+          "hash": "j+UO4SEu2HtZqkVHGMDPYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.ComplexDouble.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.ComplexDouble.html",
+          "hash": "pP+eFjUAjMWuSXsLwpzxww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.ComplexFloat.__Internal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.ComplexFloat.__Internal.html",
+          "hash": "j8MVXdsSyYm5FaTUaBJxMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.ComplexFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.ComplexFloat.html",
+          "hash": "UYspB841nMFOHHpwYIaVOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.ComplexXdouble.__Internal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.ComplexXdouble.__Internal.html",
+          "hash": "Viz4XD5cAm4lupnF6nWusw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.ComplexXdouble.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.ComplexXdouble.html",
+          "hash": "7CjhaOdHb21Q1Se0Fv8lNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/OpenBLAS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/OpenBLAS.html",
+          "hash": "kZbBSIG1MnrOU1ojf3kKFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "zn68Q5k4OvycfevC5k+QDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Q11kPzFaGBi0R0IV92+srA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "s7Fkn2uYKbpV2SChgJI/6w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "t7iiFrmuYmrKWisdq+lN6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Oy9J+tKtnTYDV2BLHesPdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "k+/dkjFuwAVS32HduMpmBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ManagedReferenceDocumentProcessor disable incremental build because last build doesn't contain version .",
+          "incrementalPhase": "build",
+          "total_file_count": 16,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
