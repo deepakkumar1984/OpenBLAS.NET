@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.3.7.0</Version>
+    <Authors>Deepak Battini</Authors>
+    <PackageLicenseUrl />
+    <PackageProjectUrl>https://github.com/deepakkumar1984/OpenBLAS.CSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/deepakkumar1984/OpenBLAS.CSharp</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>openblas,blas,linear algebra</PackageTags>
+    <Description>OpenBLAS.NET is a CSharp binding of OpenBLAS library: https://www.openblas.net/
+
+In scientific computing, OpenBLAS is an open source implementation of the BLAS (Basic Linear Algebra Subprograms) API with many hand-crafted optimizations for specific processor types. It is developed at the Lab of Parallel Software and Computational Science, ISCAS.</Description>
+    <PackageId>OpenBLAS.NET</PackageId>
+    <RootNamespace>OpenBLAS</RootNamespace>
+    <AssemblyName>OpenBLAS.NET</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="openblas.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
